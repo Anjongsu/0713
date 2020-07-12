@@ -6,8 +6,8 @@
 - 2
 
 <hr/>
-<pre><code>
 ## DB Connection
+<pre><code>
 package DBPKG;
 
 import java.sql.Connection;
